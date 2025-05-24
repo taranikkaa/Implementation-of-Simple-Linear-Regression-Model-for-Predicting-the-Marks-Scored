@@ -70,24 +70,31 @@ print("RMSE= ",rmse)
 
 ## Output:
 HEAD VALUES:
+
 ![1ml](https://github.com/user-attachments/assets/7f816587-8aeb-438c-bee3-780f4339588f)
 
 TAIL VALUES:
+
 ![2ml](https://github.com/user-attachments/assets/c7b5aff2-3d07-4da1-865c-a25500be8a94)
 
 COMPARE DATASET:
+
 ![3ml](https://github.com/user-attachments/assets/0447e0f5-1bb0-45e8-945b-e7ec5f08968f)
 
 PREDICTED VALUES:
+
 ![4ml](https://github.com/user-attachments/assets/a3ea07d0-227c-4d0e-8d26-42cc4dfdf572)
 
 TRAINING SET:
+
 ![5ml](https://github.com/user-attachments/assets/9f4e520d-d1ec-42d5-87ea-a0e51cfca6d2)
 
 TESTING SET:
+
 ![6ml](https://github.com/user-attachments/assets/e9af8022-0c25-4594-b23f-c91652913ee1)
 
 ERROR:
+
 ![7ml](https://github.com/user-attachments/assets/8616702c-1b65-4659-b9f4-a93960907112)
 
 
